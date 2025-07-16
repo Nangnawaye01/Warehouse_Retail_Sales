@@ -22,7 +22,7 @@ reasons effect sales in 2018 and 2020.
 - Since 2020 decline is likely linked to COVID-19's impact on logistics, staffing, and customer demand.
 - The more number of retail transfers are likely affect in sales of retail or warehouse especially during *March, July and December seasonal*.
 
-![Monthly Analysis](resources\monthly_analysis.png)
+![Monthly Analysis](./resources/monthly_analysis.png)
 
 ### Item Sales
 Retail channel contributes **$2.16M (22% of total revenue)**. Warehouse channel contributes **$7.78M (78% of total revenue)**, confirming it as the primary revenue stream.
@@ -37,7 +37,7 @@ Retail channel contributes **$2.16M (22% of total revenue)**. Warehouse channel 
 - Dunnage (84% of total warehouse returns) and REF (14% of warehouse returns). These categories likely relate to packaging, transportation, or equipment handling — not product defects
 - Though volumes are small, Liquor (27.7 units) and Wine (15.2 units) account for ~98% of retail returns. These returns may stem from customer dissatisfaction, breakage, or expiration.
 
-![Item Sales Analysis](resources\item_sales.png)
+![Item Sales Analysis](./resources/item_sales.png)
 
 ### Retail Transfer on item type with Month								
 The months of **January, March, July, and September** clearly show high retail transfers for *Beer, Liquor, and Wine*, which together account for over 85% of total retail transfers.
@@ -46,7 +46,7 @@ The months of **January, March, July, and September** clearly show high retail t
 - Beer shows a fluctuating trend, peaking in **Jul (79.9K) and Sep (65.5K)**, and dipping in Apr and Dec. This may suggest seasonal consumption, especially for summer events or gatherings.
 - Wine remains consistently strong, peaking in July, Sep, and Jan, likely aligning with celebratory periods like New Year, summer parties seasons.
 
-![Retail Transfer Analysis](resources\retail_transfer.png)
+![Retail Transfer Analysis](./resources/retail_transfer.png)
 
 ### Growth rate analysis
 
@@ -68,7 +68,7 @@ December plunged 52%, highlighting a significant year-end slowdown, possibly due
 June saw a 105% increase, mirroring the spike in retail sales, suggesting efficient inventory movement from warehouse to point-of-sale.  
 December again showed the weakest performance, falling 40%, highlighting a consistent drop across all channels.
 
-![Growth Rate Analysis](resources\growth_rate_analysis.png)
+![Growth Rate Analysis](./resources/growth_rate_analysis.png)
 
 ## Recommendations
 Seasonal trends are visible, with *December and March* showing repeated sales peaks, suggesting opportunities for targeted promotions during those months.  
